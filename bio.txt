@@ -1,0 +1,2 @@
+Markdown lejon autorët të shkruajnë tekste duke përdorur një sintaksë e thjeshtë dhe
+shkëlqyese për të formuar tekstet pa pasur nevojë për njohuri të thelluara të HTML-it.
